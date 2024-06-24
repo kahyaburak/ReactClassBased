@@ -1,3 +1,3 @@
 # React
 
-This project aims to practicing and becoming familiar with using Class based Components in React.
+This project aims to practice and become familiar with using class-based components in React
